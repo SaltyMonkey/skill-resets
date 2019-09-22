@@ -2,7 +2,7 @@
     "files": {
         "iconsList.json": "4e0955fe2e9f1633b402ef2ad4827dccf0b07b9d13ddc202a4742e0c5a5c2a2d",
         "index.js": "cdd91ae66a71a94e38ab484446f960ddb39a715cc6e16208a378a8d90a237fec",
-        "manifest.json": "466e52e93d505e4a282481c31f4087f17b2c3adb4ae26a912bdf9710a3d6f01d",
+        "module.json": "fd6540d8d7c7c8d3891a34c9f66c6bc054b7dac3bc2c2542d602da1da3dee2b0",
         "README.md": "81023409b81da64d94f44635aa62930f9c5db7a2032a4b3132ab7c9117dd9c6a",
         "settings_migrator.js": "cc64cd593995f8ca9b2a44ef629e559da2a6aa4891c56e4b0df491591220e836"
     }
